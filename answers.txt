@@ -11,3 +11,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference is how git will store the commit histories in the resulting branch, with merging combining the histories and rebasing putting them one after the other.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to working on the final project with other students in the class.
